@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	wcm_referer	mabanque.bnpparibas/
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	JSESSIONID	0000Fw6L4RZROCRfF3ZO5shq7CM:f792be61-3642-4dcb-a30e-a20c68c15a91
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	APinstance	prod_ap_a1_s3
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	WE_AP_1A	MTAuMjI5LjE2Ni4yNA==
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	MB_WS_web	MTAuMjQxLjE3Ny4xNDY=
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	MB_AEM_web	MTAuMjQxLjE3Ny4xNDg=
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	TS011a6182	01dbdd2ba8ac5c55e3843da11b9cf89e34daedf8273b0e4131235b34828459211df443dbc13e02de402ceb5e9f0597b4396cfd3809
+mabanque.bnpparibas	TRUE	/	FALSE	1999999999	SameSite	None
+
